@@ -1,8 +1,21 @@
-# React + Vite
+# Restaurant
+Aplikasi berbasis web yang memungkinkan pengguna untuk melihat daftar restoran yang tersedia, lengkap dengan detail seperti nama, alamat, rating, jenis masakan, dan foto restoran.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 Link Website
+[Visit Website](https://fe-restaurants-revalina.netlify.app/)
 
-Currently, two official plugins are available:
+## 📦 Tech Stack
+- **React.js**: v18.3.1
+- **Node.js**: v20.12.2
+ 
+## 🚀 How to Start the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Installation
+1.Clone the repo
+   ```sh
+   https://github.com/revalinampb/fe-restaurant.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
