@@ -11,11 +11,19 @@ Aplikasi berbasis web yang memungkinkan pengguna untuk melihat daftar restoran y
 ## 🚀 How to Start the Project
 
 ### Installation
-1.Clone the repo
+1.Install PNPM
+   ```sh
+   npm install -g pnpm
+   ```
+2. Clone the repo
    ```sh
    https://github.com/revalinampb/fe-restaurant.git
    ```
-2. Install NPM packages
+2.Install dependencies
    ```sh
-   npm install
+   pnpm install
+   ```
+3.Run the project
+   ```sh
+   pnpm run dev
    ```
