@@ -21,7 +21,7 @@ export default function RestaurantList({ restaurants }) {
                 <div className="flex justify-center mt-20">
                     <button
                         onClick={handleLoadMore}
-                        className="bg-white hover:text-white hover:border-white hover:bg-blue-800 border-blue-950 text-blue py-2 px-20 text-bold font-medium rounded transition-colors"
+                        className="bg-white hover:text-white hover:border-white hover:bg-blue-800 border-2 border-blue-950 text-blue py-2 px-20 text-bold font-medium rounded transition-colors"
                     >
                         LOAD MORE
                     </button>
