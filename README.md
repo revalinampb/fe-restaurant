@@ -19,11 +19,11 @@ Aplikasi berbasis web yang memungkinkan pengguna untuk melihat daftar restoran y
    ```sh
    https://github.com/revalinampb/fe-restaurant.git
    ```
-2.Install dependencies
+3.Install dependencies
    ```sh
    pnpm install
    ```
-3.Run the project
+4.Run the project
    ```sh
    pnpm run dev
    ```
