@@ -21,7 +21,7 @@ export default function RestaurantCard({ restaurant }) {
                 {[...Array(5)].map((_, i) => (
                     <Star
                         key={i}
-                        className={`w-4 h-4 ${i < restaurant.rating ? "text-yellow-400 fill-yellow-400" : "text-gray-300"
+                        className={`w-4 h-4 ${i < restaurant.rating ? "text-blue-900 fill-blue-900" : "text-gray-300"
                             }`}
                     />
                 ))}

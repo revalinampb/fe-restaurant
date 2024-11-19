@@ -87,7 +87,7 @@ export default function Home() {
 
                 <button
                     onClick={handleClearAll}
-                    className="ml-auto px-8 text-sm border border-gray-200 text-gray-300 hover:text-gray-500"
+                    className="ml-auto px-8 py-2 text-sm border border-gray-200 text-gray-300 hover:text-gray-500 hover:border-gray-500"
                 >
                     CLEAR ALL
                 </button>
