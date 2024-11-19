@@ -15,14 +15,17 @@ Aplikasi berbasis web yang memungkinkan pengguna untuk melihat daftar restoran y
    ```sh
    npm install -g pnpm
    ```
+
 2. Clone the repo
    ```sh
    https://github.com/revalinampb/fe-restaurant.git
    ```
+
 3.Install dependencies
    ```sh
    pnpm install
    ```
+
 4.Run the project
    ```sh
    pnpm run dev
