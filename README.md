@@ -11,7 +11,7 @@ Aplikasi berbasis web yang memungkinkan pengguna untuk melihat daftar restoran y
 ## 🚀 How to Start the Project
 
 ### Installation
-1.Install PNPM
+1. Install PNPM
    ```sh
    npm install -g pnpm
    ```
@@ -21,12 +21,12 @@ Aplikasi berbasis web yang memungkinkan pengguna untuk melihat daftar restoran y
    https://github.com/revalinampb/fe-restaurant.git
    ```
 
-3.Install dependencies
+3. Install dependencies
    ```sh
    pnpm install
    ```
 
-4.Run the project
+4. Run the project
    ```sh
    pnpm run dev
    ```
